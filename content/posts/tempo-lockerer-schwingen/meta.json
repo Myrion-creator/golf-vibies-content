@@ -1,10 +1,13 @@
 {
   "slug": "tempo-lockerer-schwingen",
   "created": "2026-10-06",
-  "status": "draft",
+  "status": "scheduled",
   "instagram_type": "POST",
-  "scheduled_for": null,
-  "media_url": null,
-  "metricool_post_id": null,
-  "isAiGenerated": false
+  "scheduled_for": "2026-10-06T20:38:00+02:00",
+  "media_url": "https://raw.githubusercontent.com/Myrion-creator/golf-vibies-content/main/media/tempo-lockerer-schwingen.jpg",
+  "metricool_post_id": "389705908",
+  "isAiGenerated": false,
+  "metricool_uuid": "1884296549548048601",
+  "autoPublish": true,
+  "bilingual": "en+de"
 }
