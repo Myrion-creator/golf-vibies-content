@@ -8,6 +8,6 @@ It took four takes. The routine had to run exactly 28 seconds, and every time th
 
 And his name isn't Tiger. He was born Eldrick Tont Woods and has never legally changed it. Where Tiger comes from is a story for another post.
 
-Which Tiger moment is your favourite? Tell us below.
+Which Tiger moment is your favourite? Comment below — one word is enough.
 
 #golf #tigerwoods #golfhistory #golffacts #pgatour #nikegolf #golfstory #majorchampion #golfswing #golflife #golftips #golfnerd

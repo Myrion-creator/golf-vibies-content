@@ -11,6 +11,6 @@ Build it the other way around:
 
 Twenty minutes, about 30 balls. This isn't practice. You aren't trying to improve anything — you're trying to arrive at the first tee already working.
 
-What's the first club out of your bag? Tell us below.
+What's the first club out of your bag? Comment below — one word is enough.
 
 #golf #golfwarmup #drivingrange #golfroutine #golftips #golfcoach #golftraining #golfpractice #prerounds #handicap #golfswing #golflife

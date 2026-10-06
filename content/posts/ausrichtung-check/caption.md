@@ -9,6 +9,6 @@ Most people get a shock the first time.
 
 Before you work on your swing, check whether you're even aiming at the target.
 
-Have you ever done this test? What did it show? Tell us below.
+Have you ever done this test? What did it show? Tell us in the comments. We read every single one.
 
 #golf #golfalignment #golfsetup #golftips #golfcoach #golftraining #drivingrange #golfpractice #ballstriking #handicap #golfswing #golflife

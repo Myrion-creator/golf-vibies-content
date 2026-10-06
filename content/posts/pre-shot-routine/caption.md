@@ -10,6 +10,6 @@ Build a routine that never changes:
 
 No variations. Not shorter when play is slow. Not longer when the shot matters — that's exactly where it starts to wobble.
 
-Count it on your next round: how many shots did you actually run the full routine on? Tell us below.
+Count it on your next round: how many shots did you actually run the full routine on? Put your number in the comments 👇
 
 #golf #preshotroutine #golfmental #mentalgame #golftips #golfcoach #golftraining #golfpractice #firsttee #handicap #golfswing #golflife

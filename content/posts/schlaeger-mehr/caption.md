@@ -10,6 +10,6 @@ Two fixes for your next round:
 
 The bunkers are in front of the green. Behind it there's usually nothing.
 
-When did you last fly a green? Tell us below.
+When did you last fly a green? Tell us in the comments. We read every single one.
 
 #golf #coursemanagement #ironplay #golftips #golfcoach #golftraining #approachshot #golfstrategy #golfpractice #handicap #golfswing #golflife
