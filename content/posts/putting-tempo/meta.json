@@ -1,12 +1,15 @@
 {
   "slug": "putting-tempo",
   "created": "2026-10-06",
-  "status": "scheduled",
+  "status": "published",
   "instagram_type": "POST",
   "scheduled_for": "2026-10-06T20:06:00+02:00",
   "media_url": "https://raw.githubusercontent.com/Myrion-creator/golf-vibies-content/main/media/putting-tempo.jpg",
   "metricool_post_id": "389702445",
   "isAiGenerated": false,
   "metricool_uuid": "-8960375897279804050",
-  "autoPublish": true
+  "autoPublish": true,
+  "language": "de",
+  "instagram_url": "https://www.instagram.com/p/DeKY31siHuA/",
+  "note": "Vor der Umstellung auf English-only veroeffentlicht. Altbestand."
 }

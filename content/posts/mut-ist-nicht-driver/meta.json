@@ -1,12 +1,15 @@
 {
   "slug": "mut-ist-nicht-driver",
   "created": "2026-10-06",
-  "status": "scheduled",
+  "status": "published",
   "instagram_type": "POST",
   "scheduled_for": "2026-10-06T20:10:00+02:00",
   "media_url": "https://raw.githubusercontent.com/Myrion-creator/golf-vibies-content/main/media/mut-ist-nicht-driver.jpg",
   "metricool_post_id": "389702495",
   "isAiGenerated": false,
   "metricool_uuid": "-4340728525860814237",
-  "autoPublish": true
+  "autoPublish": true,
+  "language": "de",
+  "instagram_url": "https://www.instagram.com/p/DeKZXbkle9d/",
+  "note": "Vor der Umstellung auf English-only veroeffentlicht. Altbestand."
 }

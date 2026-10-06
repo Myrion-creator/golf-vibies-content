@@ -4,11 +4,11 @@
   "status": "scheduled",
   "instagram_type": "POST",
   "scheduled_for": "2026-10-07T10:10:00+02:00",
-  "media_url": "https://raw.githubusercontent.com/Myrion-creator/golf-vibies-content/main/media/tiger-zwei-jahre-tv.jpg",
-  "metricool_post_id": "389710787",
+  "media_url": "https://raw.githubusercontent.com/Myrion-creator/golf-vibies-content/main/media/tiger-zwei-jahre-tv-en.jpg",
+  "metricool_post_id": "389714469",
   "metricool_uuid": "-5673598205956373806",
   "autoPublish": true,
   "isAiGenerated": false,
-  "bilingual": "en+de",
-  "facts_verified": "Websuche 2026-10-06"
+  "facts_verified": "Websuche 2026-10-06",
+  "language": "en"
 }
