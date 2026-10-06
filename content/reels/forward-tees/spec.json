@@ -1,0 +1,34 @@
+{
+  "frames": [
+    {
+      "kicker": "Let's argue",
+      "headline": "You're playing\nthe wrong tees.",
+      "subheadline": "",
+      "headlineSize": 54,
+      "subheadlineSize": 30,
+      "bg": "#0B3D2E",
+      "accent": "#C9A84C",
+      "footer": ""
+    },
+    {
+      "kicker": "",
+      "headline": "Hybrids into greens\nbuilt for a 9-iron.\nThen you wonder\nwhy golf is hard.",
+      "subheadline": "",
+      "headlineSize": 42,
+      "subheadlineSize": 30,
+      "bg": "#0B3D2E",
+      "accent": "#C9A84C",
+      "footer": ""
+    },
+    {
+      "kicker": "",
+      "headline": "Move up one set.",
+      "subheadline": "Moving up isn't giving up",
+      "headlineSize": 58,
+      "subheadlineSize": 30,
+      "bg": "#0B3D2E",
+      "accent": "#C9A84C",
+      "footer": "@golf.vibies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "frames": [
+    {
+      "kicker": "Hot take",
+      "headline": "Mulligans are\nmaking you\nworse.",
+      "subheadline": "",
+      "headlineSize": 56,
+      "subheadlineSize": 30,
+      "bg": "#0B3D2E",
+      "accent": "#C9A84C",
+      "footer": ""
+    },
+    {
+      "kicker": "",
+      "headline": "The second ball\nalways goes better.\nThat's the problem.",
+      "subheadline": "",
+      "headlineSize": 46,
+      "subheadlineSize": 30,
+      "bg": "#0B3D2E",
+      "accent": "#C9A84C",
+      "footer": ""
+    },
+    {
+      "kicker": "",
+      "headline": "Play it where\nit lies.",
+      "subheadline": "Worse this month. Better this year.",
+      "headlineSize": 56,
+      "subheadlineSize": 30,
+      "bg": "#0B3D2E",
+      "accent": "#C9A84C",
+      "footer": "@golf.vibies"
+    }
+  ]
+}
