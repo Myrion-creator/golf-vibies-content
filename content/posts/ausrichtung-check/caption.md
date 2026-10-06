@@ -1,14 +1,14 @@
-Dein Schläger zeigt zur Fahne. Dein Körper zeigt woanders hin.
+Your clubface points at the flag. Your body points somewhere else.
 
-Fast jeder richtet sich anders aus, als er glaubt – und merkt es nie, weil niemand hinter einem steht und es sagt. Dann kompensiert man den vermeintlichen Fehler mit dem Schwung. Aus einem Ausrichtungsproblem wird ein Technikproblem, und man arbeitet monatelang am Falschen.
+Almost everyone aims differently than they believe, and nobody ever finds out, because there's no one standing behind them to say so. So you compensate for the imagined fault with your swing — and an alignment problem quietly becomes a technique problem you chase for months.
 
-Der Test dauert zwei Minuten:
-Leg auf der Range zwei Schläger auf den Boden. Einen auf die Ziellinie, einen parallel dazu vor deine Zehen. Stell dich normal hin, schließ die Augen, öffne sie wieder – und schau, wo du tatsächlich stehst.
+The test takes two minutes:
+Put two clubs on the ground at the range. One on the target line, one parallel to it along your toes. Take your normal stance, close your eyes, open them again, and look at where you're actually standing.
 
-Die meisten erschrecken beim ersten Mal.
+Most people get a shock the first time.
 
-Bevor du an deinem Schwung arbeitest: Prüf, ob du überhaupt dahin zielst, wo du denkst.
+Before you work on your swing, check whether you're even aiming at the target.
 
-Speicher dir den Post für die nächste Runde.
+Have you ever done this test? What did it show? Tell us below.
 
-#golf #ausrichtung #setup #golftipps #golftraining #handicap #drivingrange #golfdeutschland #golfschweiz #golflife
+#golf #golfalignment #golfsetup #golftips #golfcoach #golftraining #drivingrange #golfpractice #ballstriking #handicap #golfswing #golflife

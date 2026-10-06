@@ -42,7 +42,11 @@ Kommen nur Nullzeilen zurück, hat Metricool für den Zeitraum noch keine Daten.
 ### 1 — Entwerfen
 `python3 scripts/new_post.py <slug>` legt `content/posts/<slug>/` mit `spec.json`, `caption.md`, `meta.json` an.
 
-Caption: Hook in max. 2 Zeilen, dann Substanz, dann CTA, dann 8–12 Hashtags. Max. 2200 Zeichen. Kein Clickbait, Du-Form.
+**Sprache: ausschliesslich Englisch.** Kein Deutsch in Caption, Grafik, Hashtags oder Alt-Text.
+Der Kontoinhaber hat das am 06.10.2026 festgelegt; davor veroeffentlichte deutsche Posts sind Altbestand.
+
+Caption: Hook in einer Zeile, der widerspricht. Dann Substanz, eine Uebung mit Zahlen,
+ein Merksatz, eine echte Frage. Max. 2200 Zeichen. Hashtags nach `brand.json` mischen.
 
 ### 2 — Grafik rendern
 `node scripts/render_post.mjs content/posts/<slug>/spec.json media/<slug>.jpg`

@@ -12,30 +12,32 @@
     "note": "Fairway-Gruen + Messing. Anpassen, sobald das echte Branding steht."
   },
   "voice": {
-    "language": "de",
-    "tone": "direkt, praxisnah, kein Marketing-Sprech; Du-Form",
+    "language": "en",
+    "note": "English only. No German anywhere - not in captions, graphics, hashtags or alt text.",
+    "tone": "direct, practical, no marketing speak; second person",
     "avoid": [
-      "Clickbait-Superlative",
-      "generische Motivationsfloskeln",
-      "Emoji-Wände"
+      "clickbait superlatives",
+      "generic motivational filler",
+      "emoji walls",
+      "invented statistics"
     ]
   },
   "caption": {
     "maxChars": 2200,
-    "hook": "Erste Zeile muss eine Behauptung oder Frage sein, die widerspricht oder überrascht. Keine Einleitung, kein 'Heute geht es um...'.",
-    "struktur": [
-      "Hook (1 Zeile)",
-      "Warum es so ist (2-4 Sätze, konkret)",
-      "Eine durchführbare Übung mit Zahlen",
-      "Merksatz zum Mitnehmen",
-      "Frage an die Leser"
+    "hook": "First line must be a claim or question that contradicts what the reader believes. No preamble.",
+    "structure": [
+      "Hook (1 line)",
+      "Why it is true (2-4 concrete sentences)",
+      "A drill with numbers",
+      "A line worth remembering",
+      "A question to the reader"
     ],
-    "cta": "Immer eine echte Frage, die sich in einem Satz beantworten lässt. Kommentare tragen die Reichweite.",
+    "cta": "Always a real question answerable in one sentence. Comments carry reach.",
     "avoid": [
-      "Clickbait-Superlative",
-      "generische Motivationsfloskeln",
-      "Emoji-Wände",
-      "erfundene Statistiken"
+      "clickbait superlatives",
+      "generic motivational filler",
+      "emoji walls",
+      "invented statistics"
     ]
   },
   "formats": {
@@ -45,42 +47,35 @@
     "reel_cover": "1080x1920"
   },
   "hashtags": {
-    "anzahl": [
+    "count": [
       12,
       16
     ],
-    "mischung": "2-3 grosse (Reichweite), 6-8 mittlere (auffindbar), 3-5 enge (dort rankt man wirklich), 2 regionale",
-    "gross": [
+    "mix": "2-3 large (reach), 6-8 medium (discoverable), 3-5 narrow (where a small account can actually rank)",
+    "large": [
       "#golf",
       "#golflife",
       "#golfswing"
     ],
-    "mittel": [
+    "medium": [
       "#golftips",
-      "#golftipps",
       "#golfcoach",
       "#golftraining",
       "#golfpractice",
       "#drivingrange",
       "#handicap",
-      "#kurzesspiel"
+      "#shortgame",
+      "#pgatour"
     ],
-    "eng": [
+    "narrow": [
       "#swingtempo",
       "#ballstriking",
       "#rangesession",
       "#preshotroutine",
       "#coursemanagement",
-      "#chippen",
-      "#puttingpractice"
+      "#bunkerplay",
+      "#golfalignment"
     ],
-    "regional": [
-      "#golfdeutschland",
-      "#golfschweiz"
-    ]
-  },
-  "zweisprachig": {
-    "wann": "Auf Wunsch. Grafik: englische Headline, deutsche Subheadline. Caption: erst Englisch, dann '· · ·' als Trenner, dann Deutsch.",
-    "hashtags": "Beide Sprachen mischen, nicht doppeln."
+    "note": "English tags only. Do not use #golftipps, #golfdeutschland, #golfschweiz or other German tags."
   }
 }

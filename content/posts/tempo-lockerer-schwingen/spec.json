@@ -1,12 +1,10 @@
 {
   "kind": "post",
-  "kicker": "Tempo · Rhythm",
+  "kicker": "Tempo",
   "headline": "Swing easier.\nHit it further.",
   "footer": "@golf.vibies",
   "bg": "#0B3D2E",
   "accent": "#C9A84C",
   "photo": "",
-  "headlineSize": 76,
-  "subheadline": "Schwing lockerer. Schlag weiter.",
-  "subheadlineSize": 46
+  "headlineSize": 80
 }

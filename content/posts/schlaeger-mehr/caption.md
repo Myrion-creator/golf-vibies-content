@@ -1,15 +1,15 @@
-Wie oft ist dein Ball dieses Jahr über das Grün geflogen? Eben.
+How often has your ball flown over the green this year? Exactly.
 
-Die meisten Annäherungen landen kurz. Der Grund ist selten fehlende Kraft – es ist Selbsteinschätzung. Du erinnerst dich an deinen besten Schlag mit dem Eisen 7, nicht an den durchschnittlichen. Und der beste war zehn Meter weiter als der normale.
+Most approach shots finish short. It's rarely a lack of power — it's self-assessment. You remember your best 7-iron, not your average one. And the best one was ten metres longer than normal.
 
-Dazu kommt die Fahne. Sie steht selten in der Mitte. Misst du zu ihr statt zur Grünmitte, verschenkst du weitere Meter.
+Then there's the flag. It's rarely in the middle. Measure to it instead of to the centre of the green and you give away more metres still.
 
-Zwei Korrekturen für die nächste Runde:
-• Nimm die Entfernung zur Grünmitte, nicht zur Fahne
-• Dann einen Schläger mehr, als dein Bauchgefühl sagt
+Two fixes for your next round:
+→ Take the yardage to the centre of the green, not to the flag
+→ Then take one more club than your gut says
 
-Vor dem Grün liegen die Bunker. Hinter dem Grün liegt meistens nichts.
+The bunkers are in front of the green. Behind it there's usually nothing.
 
-Speicher dir den Post für die nächste Runde.
+When did you last fly a green? Tell us below.
 
-#golf #golftipps #eisen #annaeherung #coursemanagement #handicap #golftraining #golfdeutschland #golfschweiz #golflife
+#golf #coursemanagement #ironplay #golftips #golfcoach #golftraining #approachshot #golfstrategy #golfpractice #handicap #golfswing #golflife

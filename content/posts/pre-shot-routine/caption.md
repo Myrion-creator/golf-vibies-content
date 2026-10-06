@@ -1,17 +1,15 @@
-Der Unterschied zwischen Range und erstem Abschlag ist nicht die Technik. Es ist der Puls.
+The difference between the range and the first tee isn't technique. It's your pulse.
 
-Auf der Range schlägst du fünfzig Bälle hintereinander, ohne nachzudenken. Auf dem Platz hast du einen Versuch, Leute hinter dir und Wasser links. Was dich da trägt, ist nicht dein Schwung – es ist, dass die letzten zwanzig Sekunden vor jedem Schlag immer gleich ablaufen.
+On the range you hit fifty balls in a row without thinking. On the course you get one attempt, people behind you and water left. What carries you there isn't your swing — it's that the last twenty seconds before every shot are always identical.
 
-Bau dir eine Routine, die sich nie ändert:
-• Hinter dem Ball stehen, Ziel festlegen
-• Ein Probeschwung, der sich wie der echte anfühlt
-• Antreten, Schlägerblatt ausrichten, Füße dazu
-• Ein Blick zum Ziel, ein Atemzug, los
+Build a routine that never changes:
+→ Stand behind the ball, pick the target
+→ One rehearsal swing that feels like the real one
+→ Step in, set the clubface, then the feet
+→ One look at the target, one breath, go
 
-Keine Variationen. Nicht kürzer, wenn es schnell gehen soll. Nicht länger, wenn es wichtig ist – genau da fängt es an zu wackeln.
+No variations. Not shorter when play is slow. Not longer when the shot matters — that's exactly where it starts to wobble.
 
-Zähl auf der nächsten Runde mit, bei wie vielen Schlägen du sie wirklich durchgezogen hast.
+Count it on your next round: how many shots did you actually run the full routine on? Tell us below.
 
-Speicher dir den Post für die nächste Runde.
-
-#golf #mentaltraining #preshotroutine #golftipps #golftraining #handicap #turnier #golfdeutschland #golfschweiz #golflife
+#golf #preshotroutine #golfmental #mentalgame #golftips #golfcoach #golftraining #golfpractice #firsttee #handicap #golfswing #golflife
