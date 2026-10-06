@@ -30,9 +30,16 @@ def main():
         "photo": ""
     }, indent=2, ensure_ascii=False) + "\n")
 
-    (d / "caption.md").write_text("<!-- Hook (max 2 Zeilen) -->\n\n\n<!-- Body -->\n\n\n<!-- CTA -->\n"
-                                  + brand["caption"]["cta"] + "\n\n<!-- Hashtags -->\n"
-                                  + " ".join(brand["caption"]["hashtags"]) + "\n")
+    h = brand["hashtags"]
+    starter = h["gross"][:2] + h["mittel"][:6] + h["eng"][:3] + h["regional"]
+    (d / "caption.md").write_text(
+        "<!-- Hook: eine Behauptung oder Frage, die widerspricht -->\n\n\n"
+        "<!-- Warum es so ist -->\n\n\n"
+        "<!-- Uebung mit Zahlen -->\n\n\n"
+        "<!-- Merksatz -->\n\n\n"
+        "<!-- Frage an die Leser -->\n\n\n"
+        "<!-- Hashtags: gross/mittel/eng/regional mischen, 12-16 Stueck -->\n"
+        + " ".join(starter) + "\n")
 
     (d / "meta.json").write_text(json.dumps({
         "slug": a.slug,
