@@ -92,5 +92,18 @@
     "size": "1080x1080",
     "rule": "Instagram zeigt das Profilbild rund und bis hinunter zu 32 px. Jeden Entwurf kreisfoermig zuschneiden und bei 32 px pruefen, bevor er abgegeben wird. Ausgeschriebener Kontoname ist bei 32 px nie lesbar.",
     "upload": "Muss der Kontoinhaber selbst in der Instagram-App machen. Metricool bietet dafuer kein MCP-Tool."
+  },
+  "bio": {
+    "limit": 150,
+    "status": "Drei Entwuerfe, Empfehlung C. Muss der Kontoinhaber selbst eintragen.",
+    "A": "Practical golf, no swing theory.\nOne idea and one drill per post.\nSave them for your next round.",
+    "B": "Most golf advice makes you worse.\nThis doesn't.\nShort game · strategy · the mental game",
+    "C": "Unpopular golf opinions, with the reasoning.\nPlus drills that actually work.\nComment. We argue back."
+  },
+  "reels": {
+    "renderer": "scripts/render_reel.py",
+    "format": "1080x1920, H.264+AAC, 9,5s, drei Standbilder mit Zoom und Ueberblendung",
+    "audio": "Instagram-Audiokatalog ist fuer dieses Konto gesperrt (HTTP 403). Reels gehen stumm raus. Nicht erneut mit anderem audioId versuchen - erst Facebook-Seite verbinden.",
+    "note": "Text-Reels schlagen statische Posts in der Ausspielung deutlich. Echtes Golfmaterial schlaegt Text-Reels noch einmal deutlich."
   }
 }
