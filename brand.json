@@ -1,0 +1,32 @@
+{
+  "handle": "golf.vibies",
+  "metricool": {
+    "blogId": "7272560",
+    "label": "golf.vibies",
+    "timezone": "Europe/Zurich"
+  },
+  "visual": {
+    "bg": "#0B3D2E",
+    "accent": "#C9A84C",
+    "text": "#F5F3E8",
+    "note": "Fairway-Gruen + Messing. Anpassen, sobald das echte Branding steht."
+  },
+  "voice": {
+    "language": "de",
+    "tone": "direkt, praxisnah, kein Marketing-Sprech; Du-Form",
+    "avoid": ["Clickbait-Superlative", "generische Motivationsfloskeln", "Emoji-Wände"]
+  },
+  "caption": {
+    "maxChars": 2200,
+    "hook_lines": 2,
+    "cta": "Speicher dir den Post für die nächste Runde.",
+    "hashtags": ["#golf", "#golfswing", "#golftips", "#golflife", "#handicap", "#golfdeutschland", "#golfschweiz"],
+    "hashtag_count": [8, 12]
+  },
+  "formats": {
+    "post": "1080x1350",
+    "square": "1080x1080",
+    "story": "1080x1920",
+    "reel_cover": "1080x1920"
+  }
+}
