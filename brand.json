@@ -14,19 +14,73 @@
   "voice": {
     "language": "de",
     "tone": "direkt, praxisnah, kein Marketing-Sprech; Du-Form",
-    "avoid": ["Clickbait-Superlative", "generische Motivationsfloskeln", "Emoji-Wände"]
+    "avoid": [
+      "Clickbait-Superlative",
+      "generische Motivationsfloskeln",
+      "Emoji-Wände"
+    ]
   },
   "caption": {
     "maxChars": 2200,
-    "hook_lines": 2,
-    "cta": "Speicher dir den Post für die nächste Runde.",
-    "hashtags": ["#golf", "#golfswing", "#golftips", "#golflife", "#handicap", "#golfdeutschland", "#golfschweiz"],
-    "hashtag_count": [8, 12]
+    "hook": "Erste Zeile muss eine Behauptung oder Frage sein, die widerspricht oder überrascht. Keine Einleitung, kein 'Heute geht es um...'.",
+    "struktur": [
+      "Hook (1 Zeile)",
+      "Warum es so ist (2-4 Sätze, konkret)",
+      "Eine durchführbare Übung mit Zahlen",
+      "Merksatz zum Mitnehmen",
+      "Frage an die Leser"
+    ],
+    "cta": "Immer eine echte Frage, die sich in einem Satz beantworten lässt. Kommentare tragen die Reichweite.",
+    "avoid": [
+      "Clickbait-Superlative",
+      "generische Motivationsfloskeln",
+      "Emoji-Wände",
+      "erfundene Statistiken"
+    ]
   },
   "formats": {
     "post": "1080x1350",
     "square": "1080x1080",
     "story": "1080x1920",
     "reel_cover": "1080x1920"
+  },
+  "hashtags": {
+    "anzahl": [
+      12,
+      16
+    ],
+    "mischung": "2-3 grosse (Reichweite), 6-8 mittlere (auffindbar), 3-5 enge (dort rankt man wirklich), 2 regionale",
+    "gross": [
+      "#golf",
+      "#golflife",
+      "#golfswing"
+    ],
+    "mittel": [
+      "#golftips",
+      "#golftipps",
+      "#golfcoach",
+      "#golftraining",
+      "#golfpractice",
+      "#drivingrange",
+      "#handicap",
+      "#kurzesspiel"
+    ],
+    "eng": [
+      "#swingtempo",
+      "#ballstriking",
+      "#rangesession",
+      "#preshotroutine",
+      "#coursemanagement",
+      "#chippen",
+      "#puttingpractice"
+    ],
+    "regional": [
+      "#golfdeutschland",
+      "#golfschweiz"
+    ]
+  },
+  "zweisprachig": {
+    "wann": "Auf Wunsch. Grafik: englische Headline, deutsche Subheadline. Caption: erst Englisch, dann '· · ·' als Trenner, dann Deutsch.",
+    "hashtags": "Beide Sprachen mischen, nicht doppeln."
   }
 }

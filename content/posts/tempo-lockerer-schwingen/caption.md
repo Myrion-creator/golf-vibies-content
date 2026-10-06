@@ -1,27 +1,33 @@
-Swinging harder is the fastest way to lose distance.
+Your hardest swing is probably your shortest.
 
-Max effort moves your low point, tilts the clubface and costs you the middle of the face. A ball struck off-centre at full power flies shorter than a clean strike at 80 percent — and it finds the rough more often.
+Full effort shifts your low point, twists the face through impact and costs you the middle of it. An off-centre strike at 100 percent flies shorter than a clean one at 80 — and it finds the rough far more often.
 
-Try this on the range:
-Hit ten balls with a 7-iron at what feels like 80 percent. Count how many come off the middle. Then hit ten at full effort and count again.
+The ten-ball test for your next range session:
 
-Most people are surprised twice. The easy swings find the centre more often, and they carry about the same distance.
+→ Ten 7-irons at what feels like 80 percent. Count the ones off the middle.
+→ Ten more at full effort. Count again.
 
-Smooth isn't slow. Smooth is repeatable.
+Two things surprise almost everyone. The easy swings find the centre more often — and they carry about the same.
+
+Tour players look slow because they aren't fighting the club. Smooth isn't slow. Smooth is repeatable.
+
+How many out of ten do you catch clean? Tell us below.
 
 · · ·
 
-Fester zu schwingen ist der schnellste Weg, Länge zu verlieren.
+Dein härtester Schwung ist wahrscheinlich dein kürzester.
 
-Volle Kraft verschiebt deinen tiefsten Punkt, kippt das Schlägerblatt und kostet dich die Mitte der Schlagfläche. Ein Treffer neben der Mitte fliegt kürzer als ein sauberer mit 80 Prozent – und landet öfter im Rough.
+Volle Kraft verschiebt deinen tiefsten Punkt, verdreht das Schlägerblatt im Treffmoment und kostet dich die Mitte der Schlagfläche. Ein Treffer daneben mit 100 Prozent fliegt kürzer als ein sauberer mit 80 – und landet deutlich öfter im Rough.
 
-Probier es auf der Range:
-Schlag zehn Bälle mit dem Eisen 7 auf gefühlt 80 Prozent. Zähl, wie viele aus der Mitte kommen. Dann zehn mit voller Kraft, und zähl nochmal.
+Der Zehn-Ball-Test für die nächste Range-Einheit:
 
-Die meisten überrascht es doppelt. Die lockeren Schwünge treffen häufiger die Mitte – und fliegen ungefähr gleich weit.
+→ Zehn Bälle Eisen 7 auf gefühlt 80 Prozent. Zähl die, die aus der Mitte kommen.
+→ Zehn mit voller Kraft. Nochmal zählen.
 
-Locker heißt nicht langsam. Locker heißt wiederholbar.
+Zwei Dinge überraschen fast alle. Die lockeren Schwünge treffen häufiger die Mitte – und fliegen ungefähr gleich weit.
 
-Save it for your next session · Speicher dir den Post für die nächste Übungseinheit
+Tour-Spieler wirken langsam, weil sie nicht gegen den Schläger kämpfen. Locker heißt nicht langsam. Locker heißt wiederholbar.
 
-#golf #golfswing #golftips #tempo #golftipps #rhythm #handicap #golftraining #golfdeutschland #golfschweiz #golflife
+Wie viele von zehn erwischst du sauber? Schreib es in die Kommentare.
+
+#golf #golfswing #swingtempo #ballstriking #golftips #golftipps #golfcoach #golftraining #drivingrange #rangesession #golfpractice #handicap #golfdeutschland #golfschweiz #golflife
