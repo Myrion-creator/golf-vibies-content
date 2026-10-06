@@ -29,7 +29,10 @@ body{font-family:Inter,system-ui,sans-serif;color:#F5F3E8;display:flex;flex-dire
    : 'linear-gradient(180deg,rgba(0,0,0,.10) 0%,rgba(0,0,0,.22) 45%,rgba(0,0,0,.80) 100%)'}}
 .inner{position:relative;z-index:2;text-align:${centered ? 'center' : 'left'}}
 .kicker{font-size:${px(26)}px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:${accent};margin-bottom:${px(20)}px}
-.headline{font-size:${px(spec.headlineSize || 78)}px;font-weight:800;line-height:1.04;letter-spacing:-.02em;text-wrap:balance}
+.headline{font-size:${px(spec.headlineSize || 78)}px;font-weight:800;line-height:1.04;letter-spacing:-.02em;
+  text-wrap:balance;white-space:pre-line}
+.subheadline{font-size:${px(spec.subheadlineSize || 48)}px;font-weight:400;line-height:1.12;
+  letter-spacing:-.01em;opacity:.72;margin-top:${px(26)}px;text-wrap:balance}
 .rule{width:${px(96)}px;height:${px(6)}px;background:${accent};margin:${px(32)}px ${centered ? 'auto' : '0'}}
 .footer{font-size:${px(28)}px;font-weight:600;letter-spacing:.06em;opacity:.92}
 </style></head><body>
@@ -37,6 +40,7 @@ ${photo ? '<div class="photo"></div>' : ''}<div class="scrim"></div>
 <div class="inner">
 ${spec.kicker ? `<div class="kicker">${esc(spec.kicker)}</div>` : ''}
 <div class="headline">${esc(spec.headline)}</div>
+${spec.subheadline ? `<div class="subheadline">${esc(spec.subheadline)}</div>` : ''}
 <div class="rule"></div>
 ${spec.footer ? `<div class="footer">${esc(spec.footer)}</div>` : ''}
 </div></body></html>`;
