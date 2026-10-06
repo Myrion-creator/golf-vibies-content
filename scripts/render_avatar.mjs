@@ -24,6 +24,14 @@ const VARIANTS = {
      .gv{font-size:500px;font-weight:900;color:${CREAM};letter-spacing:-.06em;line-height:.8}
      .rule{width:190px;height:24px;background:${BRASS};border-radius:12px;margin-top:52px}`),
 
+  // 1b — Monogramm mit Schriftzug darueber
+  'monogram-text': shell(
+    `<div class="wrap"><div class="name">golf vibies</div><div class="gv">gv</div></div>`,
+    `.wrap{display:flex;flex-direction:column;align-items:center;transform:translateY(6px)}
+     .name{font-size:104px;font-weight:700;color:${BRASS};letter-spacing:.10em;
+           margin-bottom:8px;white-space:nowrap}
+     .gv{font-size:470px;font-weight:900;color:${CREAM};letter-spacing:-.06em;line-height:.86}`),
+
   // 2 — Fahne im Loch, Silhouette
   flag: shell(`<svg width="${S}" height="${S}" viewBox="0 0 1080 1080">
       <path d="M0 790 Q540 660 1080 790 L1080 1080 L0 1080 Z" fill="${CREAM}" opacity=".16"/>

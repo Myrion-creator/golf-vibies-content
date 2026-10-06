@@ -79,14 +79,16 @@
     "note": "English tags only. Do not use #golftipps, #golfdeutschland, #golfschweiz or other German tags."
   },
   "avatar": {
-    "status": "Drei Entwuerfe zur Auswahl, noch nicht entschieden.",
+    "status": "Vier Entwuerfe. Favorit des Kontoinhabers: Monogramm mit Schriftzug (avatar-monogram-text.jpg).",
     "files": [
+      "media/avatar-monogram-text.jpg",
       "media/avatar-monogram.jpg",
       "media/avatar-flag.jpg",
       "media/avatar-ball.jpg"
     ],
     "size": "1080x1080",
     "rule": "Instagram zeigt das Profilbild rund und bis hinunter zu 32 px. Jeden Entwurf vor der Abgabe kreisfoermig zuschneiden und auf 32 px herunterrechnen pruefen. Kein ausgeschriebener Kontoname.",
-    "upload": "Muss der Kontoinhaber selbst in der Instagram-App machen. Metricool bietet dafuer kein MCP-Tool."
+    "upload": "Muss der Kontoinhaber selbst in der Instagram-App machen. Metricool bietet dafuer kein MCP-Tool.",
+    "known_tradeoff": "Der Schriftzug 'golf vibies' ist bei 110 px gut lesbar, bei 32 px nicht mehr. Das gv traegt die Erkennung in der kleinen Groesse."
   }
 }
