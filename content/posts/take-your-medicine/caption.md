@@ -6,6 +6,6 @@ The chip-out costs you a stroke and guarantees the next one is from grass. The h
 
 Take the stroke. Make the putt. Walk off with bogey instead of a seven.
 
-What's the worst hero shot you've attempted? Let us know in the comments 👇
+What's the worst hero shot you've attempted? Comment below — we read every one.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #coursemanagement #golfstrategy #recoveryshot #scoring

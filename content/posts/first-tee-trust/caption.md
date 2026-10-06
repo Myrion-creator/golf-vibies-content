@@ -6,6 +6,6 @@ Hit whatever you trust. A hybrid in the fairway is a better start than a driver 
 
 Start the round in play. Be brave on the fourth hole instead.
 
-What do you hit off the first? Drop your answer in the comments 👇
+What do you hit off the first? Comment below — we read every one.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #firsttee #golfnerves #mentalgame #coursemanagement

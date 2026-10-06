@@ -10,6 +10,6 @@ A workable map:
 
 Put a club on the ground at the range and check it. Most people are further back than they think with the driver and further forward with wedges.
 
-Where's your 7-iron? Comment it below. We're genuinely curious.
+Where's your 7-iron? Let us know in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #golfsetup #ballposition #ironplay #golffundamentals

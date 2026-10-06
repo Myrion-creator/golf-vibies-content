@@ -10,6 +10,6 @@ Ready golf fixes it without rushing anyone:
 
 Nobody has to swing faster. The gaps just disappear.
 
-What's the slowest round you've played? Drop your answer in the comments 👇
+What's the slowest round you've played? Tell us in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #golfetiquette #paceofplay #readygolf #golfrules

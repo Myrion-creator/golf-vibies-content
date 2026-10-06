@@ -9,6 +9,6 @@ Write three numbers on your card for three rounds:
 
 That's it. Nine data points. After three rounds the weak link is obvious, and you'll stop spending range time on the thing that was already fine.
 
-Which of the three do you think is your worst? Tell us in the comments. We read every single one.
+Which of the three do you think is your worst? Let us know in the comments 👇
 
-#golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #golfstats #golfimprovement #handicap #golfpractice
+#golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #golfstats #golfimprovement

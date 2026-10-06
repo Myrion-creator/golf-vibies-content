@@ -6,6 +6,6 @@ The check: take your putting stance, hang a ball from the bridge of your nose an
 
 Shortening a putter costs almost nothing and changes what you see.
 
-Where does your ball drop? Settle it in the comments — what do you do?
+Where does your ball drop? Drop your answer in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #putting #clubfitting #golfequipment #puttingtips

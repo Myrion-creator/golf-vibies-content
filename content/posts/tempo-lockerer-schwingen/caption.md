@@ -10,6 +10,6 @@ Two things surprise almost everyone. The easy swings find the centre more often 
 
 Tour players look slow because they aren't fighting the club. Smooth isn't slow. Smooth is repeatable.
 
-How many out of ten do you catch clean? Comment your answer. We reply to all of them.
+How many out of ten do you catch clean? Drop the number in the comments 👇
 
 #golf #golfswing #swingtempo #ballstriking #golftips #golfcoach #golftraining #drivingrange #rangesession #golfpractice #handicap #golflife

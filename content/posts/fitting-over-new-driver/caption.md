@@ -6,6 +6,6 @@ A fitting takes an hour and usually changes two things: lie angle and shaft. Bot
 
 Get measured first. Then decide if you still want the driver.
 
-Have you ever been fitted? Comment below — one word is enough.
+Have you ever been fitted? Tell us in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #golfequipment #clubfitting #golfgear #ironplay

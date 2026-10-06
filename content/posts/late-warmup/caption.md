@@ -10,6 +10,6 @@ Ten minutes, in this order:
 
 You won't be warm. You will be calibrated, which matters more.
 
-What do you do when you're running late? Put your number in the comments 👇
+What do you do when you're running late? Let us know in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #preround #golfroutine #puttingpractice #shortgame

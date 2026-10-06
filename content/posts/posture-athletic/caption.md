@@ -6,6 +6,6 @@ Try the opposite reference. Stand like you're about to catch a ball thrown at yo
 
 If someone nudged you, you should be able to stay balanced. If you'd topple, you're not set up to swing.
 
-Do you feel stiff at address? Tell us in the comments. We read every single one.
+Do you feel stiff at address? Let us know in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #golfsetup #golfposture #golffundamentals #golfbasics

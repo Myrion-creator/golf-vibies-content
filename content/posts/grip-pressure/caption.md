@@ -6,6 +6,6 @@ On a scale of one to ten, where ten is white-knuckled, you want about a four. Fi
 
 The check: take your grip, then have someone try to pull the club out. If it slides, you're too soft. If your forearms are hard, you're too tight.
 
-Where are you on that scale right now? Tell us in the comments. We read every single one.
+Where are you on that scale right now? Comment your answer below.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #griptips #golfgrip #golfsetup #ballstriking

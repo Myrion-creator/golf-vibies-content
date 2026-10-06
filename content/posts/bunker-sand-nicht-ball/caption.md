@@ -9,6 +9,6 @@ Sand wedge open, weight slightly on your lead foot, and keep swinging through. T
 
 Don't dig. Slice.
 
-How many out of ten can you enter on the line? Settle it in the comments — what do you do?
+How many out of ten can you enter on the line? Put your number in the comments 👇
 
 #golf #bunkershot #sandwedge #shortgame #golftips #golfcoach #golftraining #golfpractice #bunkerplay #handicap #golflife #golfswing

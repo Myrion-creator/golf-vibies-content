@@ -6,6 +6,6 @@ Simple rule: tee up on the same side as the trouble, then play away from it.
 
 It costs nothing, takes five seconds, and you can do it before you've even swung.
 
-Did you know you could tee up anywhere between the markers? Put your number in the comments 👇
+Did you know you could tee up anywhere between the markers? One word in the comments is enough 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #teeshot #coursemanagement #golfstrategy #driving

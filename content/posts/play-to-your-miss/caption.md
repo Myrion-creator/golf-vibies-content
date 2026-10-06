@@ -6,6 +6,6 @@ This feels like giving up. It isn't. It's the difference between playing the cou
 
 Fix the slice on the range. Use it on the course.
 
-Which way does your bad one go? Comment below — one word is enough.
+Which way does your bad one go? Comment your answer below.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #coursemanagement #golfstrategy #slicefix #scoring

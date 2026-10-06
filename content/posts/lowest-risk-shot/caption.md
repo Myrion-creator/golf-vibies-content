@@ -6,6 +6,6 @@ Most amateurs start at the top of that list because the flop looks like golf on 
 
 Ask one question: what's the least amount of air that gets this job done?
 
-What's your default shot from greenside? Comment it below. We're genuinely curious.
+What's your default shot from greenside? One word in the comments is enough 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #shortgame #chipping #pitching #scoringzone

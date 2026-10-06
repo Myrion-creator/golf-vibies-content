@@ -6,6 +6,6 @@ The target isn't the hole. It's about 30 to 40 centimetres past it. Roll every p
 
 You can't three-putt from a putt you've holed.
 
-How many of your misses finish short? Let us know in the comments 👇
+How many of your misses finish short? Drop the number in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #putting #puttingtips #puttingpractice #shortgame

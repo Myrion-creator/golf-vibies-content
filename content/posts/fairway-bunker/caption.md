@@ -10,6 +10,6 @@ The setup:
 
 And check the lip before you choose. No club carries a wall.
 
-Ever tried to hero one out and caught the face? Comment your answer. We reply to all of them.
+Ever tried to hero one out and caught the face? Drop your answer in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #bunkershot #fairwaybunker #coursemanagement #golfstrategy

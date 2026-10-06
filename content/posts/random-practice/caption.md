@@ -9,6 +9,6 @@ Do this instead:
 
 Twenty balls like that beat eighty on autopilot.
 
-How many clubs did you use in your last range session? Let us know in the comments 👇
+How many clubs did you use in your last range session? Drop the number in the comments 👇
 
-#golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #golfpractice #rangesession #drivingrange #practicetips
+#golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #rangesession #drivingrange #practicetips

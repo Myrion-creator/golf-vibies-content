@@ -6,6 +6,6 @@ Try this: don't total the card until the eighteenth green. Write the numbers dow
 
 It sounds like a trick. It is. It works because the only shot you can influence is the next one.
 
-Have you ever blown up after doing the maths? Settle it in the comments — what do you do?
+Have you ever blown up after doing the maths? Drop your answer in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #mentalgame #golfmental #scoring #golfpsychology

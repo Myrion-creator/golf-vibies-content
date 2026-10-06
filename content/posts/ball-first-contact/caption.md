@@ -7,6 +7,6 @@ Put a tee in the ground an inch in front of your ball. Hit the ball and clip the
 
 Ball first, turf second. Every good iron shot in history.
 
-Do your divots start before or after the ball? Put your number in the comments 👇
+Do your divots start before or after the ball? Comment your answer below.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #ironplay #ballstriking #golfdivot #compression

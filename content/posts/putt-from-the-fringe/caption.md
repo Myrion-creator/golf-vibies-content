@@ -6,6 +6,6 @@ The rule: if the grass between you and the green is short enough to roll a ball 
 
 Tour players chip because they can. You score by removing the shot that can cost you three.
 
-How often do you putt from off the green? Comment it below. We're genuinely curious.
+How often do you putt from off the green? One word in the comments is enough 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #shortgame #puttingtips #chipping #scoringzone

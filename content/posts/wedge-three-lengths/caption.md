@@ -10,6 +10,6 @@ Hit ten balls at each with one wedge and write down the carry. Do it for each we
 
 Guessing from 60 metres is why you're putting from twelve.
 
-Do you know your 9 o'clock number? Comment it below. We're genuinely curious.
+Do you know your 9 o'clock number? Drop your answer in the comments 👇
 
-#golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #wedgeplay #shortgame #distancecontrol #golfpractice
+#golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #wedgeplay #shortgame #distancecontrol

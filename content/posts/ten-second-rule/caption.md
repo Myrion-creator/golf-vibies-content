@@ -6,6 +6,6 @@ Some players pick a marker on the course: by the time I reach that tree, it's fi
 
 The scorecard doesn't record how unfairly the ball bounced.
 
-How long does a bad hole stay with you? Drop your answer in the comments 👇
+How long does a bad hole stay with you? Tell us in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #mentalgame #golfmental #golfpsychology #scoring

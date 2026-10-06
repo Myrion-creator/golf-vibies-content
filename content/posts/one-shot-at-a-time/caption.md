@@ -6,6 +6,6 @@ Golf is unusually cruel this way: there's a long walk between shots, and the min
 
 One ball. One target. One swing. Then walk, and do it again.
 
-Where does your mind go between shots? Comment your answer. We reply to all of them.
+Where does your mind go between shots? Comment below — we read every one.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #mentalgame #golfmental #golfpsychology #focus

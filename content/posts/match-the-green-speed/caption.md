@@ -8,6 +8,6 @@ Two minutes on the practice green:
 
 Don't try to hole anything. You're measuring, not practising.
 
-Do you warm up your putting before a round? Settle it in the comments — what do you do?
+Do you warm up your putting before a round? Drop your answer in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #puttingpractice #preround #golfroutine #greenspeed

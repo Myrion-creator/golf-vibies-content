@@ -6,6 +6,6 @@ Downhill is the mirror image. Shoulders tilt down the hill, ball back a touch, o
 
 The rule for both: swing with the hill, not against it.
 
-Which lie gives you more trouble, uphill or downhill? Comment it below. We're genuinely curious.
+Which lie gives you more trouble, uphill or downhill? One word in the comments is enough 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #unevenlies #golfstrategy #ironplay #golfsetup

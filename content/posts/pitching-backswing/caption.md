@@ -6,6 +6,6 @@ Keep the through-swing committed and change only the length going back. Same tem
 
 A short confident swing beats a long frightened one.
 
-Do you decelerate under pressure? Drop your answer in the comments 👇
+Do you decelerate under pressure? Tell us in the comments 👇
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #pitching #shortgame #wedgeplay #distancecontrol

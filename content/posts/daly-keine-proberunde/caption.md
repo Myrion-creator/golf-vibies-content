@@ -10,6 +10,6 @@ The same instinct cost him, too. Bay Hill, 1998: six balls in the water on the p
 
 His own verdict is the most John Daly sentence ever spoken: "I had the courage to keep going for it, but I didn't have the wisdom to bail out right."
 
-Grip it and rip it — or lay up? Let us know in the comments 👇
+Grip it and rip it — or lay up? One word in the comments is enough 👇
 
 #golf #johndaly #gripitandripit #golfhistory #golffacts #pgatour #majorchampion #golfstory #openchampionship #golfswing #golflife #golftips

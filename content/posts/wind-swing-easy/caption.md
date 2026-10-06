@@ -10,6 +10,6 @@ Do the opposite:
 
 Low and boring beats high and brave. Every time.
 
-What's the strongest wind you've played in? Settle it in the comments — what do you do?
+What's the strongest wind you've played in? Comment below — we read every one.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #windyconditions #golfstrategy #linksgolf #coursemanagement

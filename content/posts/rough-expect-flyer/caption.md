@@ -8,6 +8,6 @@ Read the lie first:
 
 The rough punishes autopilot more than it punishes bad swings.
 
-Flyer or chunk — which has cost you more? Comment below — one word is enough.
+Flyer or chunk — which has cost you more? Comment your answer below.
 
 #golf #golfswing #golftips #golfcoach #golftraining #golfpractice #handicap #golflife #roughlie #ironplay #coursemanagement #golfstrategy
