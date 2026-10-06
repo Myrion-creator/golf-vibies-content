@@ -51,7 +51,8 @@ Danach plant Cowork den Post über Metricool ein.
 
 - **Metricool veröffentlicht, nicht wir.** Was Metricool für Instagram nicht unterstützt, geht auch hier nicht.
 - **Medien sind öffentlich**, sobald sie gepusht sind — vor dem Veröffentlichungstermin sichtbar.
-  Nichts in `media/` ablegen, was nicht ohnehin auf Instagram landet.
+  Nichts in `media/` ablegen, was nicht ohnehin auf Instagram landet. Metricool zieht beim
+  Einplanen eine eigene Kopie, die URL muss danach nicht bestehen bleiben.
 - **Kommentare, DMs, Follower-Aktionen** sind nicht angebunden. Metricool bietet dafür
   eine Inbox, die über diese MCP-Tools nicht erreichbar ist.
 - **Analytics hängen an Metricools Abholrhythmus**, nicht an Instagram live.

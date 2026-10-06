@@ -53,7 +53,11 @@ Formate: `post` 1080×1350 · `square` 1080×1080 · `story`/`reel_cover` 1080×
 
 ### 3 — Medien veröffentlichen
 Bild nach `media/` committen und pushen. Die URL ist erst nach dem Push erreichbar — danach prüfen:
-`curl -sI <url> | head -1` muss `200` liefern. Metricool holt die Datei selbst; ein 404 lässt den Post stillschweigend scheitern.
+`curl -sI <url> | head -1` muss `200` liefern.
+
+Metricool lädt die Datei beim Einplanen herunter und legt eine eigene Kopie auf
+`static.metricool.com` ab. Die GitHub-URL muss also nur in diesem Moment erreichbar sein —
+danach hängt der Post nicht mehr an ihr. Ein 404 beim Einplanen lässt den Post aber scheitern.
 
 ### 4 — In Metricool planen
 `createScheduledPost` mit `blogId`, `date` (ISO 8601 mit Offset, nie in der Vergangenheit) und `info`:
